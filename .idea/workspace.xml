@@ -2,75 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3477e77-d7c4-4b5c-b0da-bf9f1ff96c37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploaded/project_thumbs/PMBG-Thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploaded/home/PMBG.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploaded/home/bcHome1 Copy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWork/child-rescue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myWork/paul-mitchell-edu.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/selected-work/asset-office-interiors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/selected-work/takk-norge-packaging.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/selected-work/takk-norge.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/ASPRA_XOMATA_THUMB.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/Almyrida_Thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/CTRLZAK_Thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/Crisis_is_a_greek_word.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/Harbour_logo_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/LOVE_FLORIS.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/Lavish_logo_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/SFR-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/YPOKATASKEVI_catalogue.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/almyrida_resort.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/asset_office.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/barrique_front.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/chimera_thumb_new_grey.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/debina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/designlobby.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/domaine_glinavos_website.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/dryades_front.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/harbor_thumb_fifty.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/lady_frosyni.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/lavish_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/love_floris_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/pbplaw_vertical.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/poem_thumb_fifty.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/primus_zitsa_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/rodos_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/summer_postcards 2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/takknorge_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/takknorge_thumb_fifty.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/therros_thumb_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/two.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/vlahiko_front.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploaded/project_thumbs/yamas_thumb_3.jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/almyrida-logo-case-study.html" afterPath="$PROJECT_DIR$/myWork/almyrida-logo-case-study.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/almyrida-resort.html" afterPath="$PROJECT_DIR$/myWork/almyrida-resort.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/chimera.html" afterPath="$PROJECT_DIR$/myWork/chimera.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/crisis-is-a-greek-word.html" afterPath="$PROJECT_DIR$/myWork/crisis-is-a-greek-word.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/ctrlzak.html" afterPath="$PROJECT_DIR$/myWork/ctrlzak.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/debina.html" afterPath="$PROJECT_DIR$/myWork/debina.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/design-lobby-assia.html" afterPath="$PROJECT_DIR$/myWork/design-lobby-assia.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/division-architects.html" afterPath="$PROJECT_DIR$/myWork/division-architects.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/domaine-glinavos-website.html" afterPath="$PROJECT_DIR$/myWork/domaine-glinavos-website.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/glinavos-sparkling-wines.html" afterPath="$PROJECT_DIR$/myWork/glinavos-sparkling-wines.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/harbor-suites-logo.html" afterPath="$PROJECT_DIR$/myWork/harbor-suites-logo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/harbor-suites.html" afterPath="$PROJECT_DIR$/myWork/harbor-suites.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/intersport.html" afterPath="$PROJECT_DIR$/myWork/intersport.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/lab21_website.html" afterPath="$PROJECT_DIR$/myWork/lab21_website.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/ladyfrosyni.html" afterPath="$PROJECT_DIR$/myWork/ladyfrosyni.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/lavish-logo-case-study.html" afterPath="$PROJECT_DIR$/myWork/lavish-logo-case-study.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/lavish.html" afterPath="$PROJECT_DIR$/myWork/lavish.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/love-floris-branding.html" afterPath="$PROJECT_DIR$/myWork/love-floris-branding.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/love-floris.html" afterPath="$PROJECT_DIR$/myWork/love-floris.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/pavlopoulos-benetatos-pappas-law-firm.html" afterPath="$PROJECT_DIR$/myWork/pavlopoulos-benetatos-pappas-law-firm.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/rodos-logo-case-study.html" afterPath="$PROJECT_DIR$/myWork/rodos-logo-case-study.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/so-front-row.html" afterPath="$PROJECT_DIR$/myWork/so-front-row.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/summer-post-cards.html" afterPath="$PROJECT_DIR$/myWork/summer-post-cards.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/theros-logo-case-study.html" afterPath="$PROJECT_DIR$/myWork/theros-logo-case-study.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/two-is-company.html" afterPath="$PROJECT_DIR$/myWork/two-is-company.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/yamas.html" afterPath="$PROJECT_DIR$/myWork/yamas.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selected-work/ypokataskevi.html" afterPath="$PROJECT_DIR$/myWork/ypokataskevi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extra.html" afterPath="$PROJECT_DIR$/extra.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/almyrida-logo-case-study.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/almyrida-resort.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/chimera.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/crisis-is-a-greek-word.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/ctrlzak.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/debina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/design-lobby-assia.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/division-architects.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/domaine-glinavos-website.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/glinavos-sparkling-wines.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/harbor-suites-logo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/harbor-suites.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/intersport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/lab21_website.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/ladyfrosyni.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/lavish-logo-case-study.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/lavish.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/love-floris-branding.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/love-floris.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/pavlopoulos-benetatos-pappas-law-firm.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/rodos-logo-case-study.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/so-front-row.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/summer-post-cards.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/theros-logo-case-study.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/two-is-company.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/yamas.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myWork/ypokataskevi.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PortfolioBC.iws" />
@@ -95,8 +54,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="9.325103">
-              <caret line="629" column="5" selection-start-line="629" selection-start-column="5" selection-end-line="629" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.8440493">
+              <caret line="282" column="63" selection-start-line="282" selection-start-column="63" selection-end-line="282" selection-end-column="63" />
               <folding>
                 <element signature="n#style#0;n#article#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#article#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -111,10 +70,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5752" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="7980" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="child-rescue.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myWork/child-rescue.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-140.46428">
+            <state vertical-scroll-proportion="0.0">
               <caret line="207" column="22" selection-start-line="207" selection-start-column="22" selection-end-line="207" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#a#0;n#section#0;n#nav#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -127,7 +98,7 @@
       <file leaf-file-name="paul-mitchell-edu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myWork/paul-mitchell-edu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.709091">
+            <state vertical-scroll-proportion="0.0">
               <caret line="141" column="59" selection-start-line="0" selection-start-column="0" selection-end-line="280" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#a#0;n#section#0;n#nav#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -140,7 +111,7 @@
       <file leaf-file-name="extra.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/extra.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-28.357143">
+            <state vertical-scroll-proportion="0.0">
               <caret line="806" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="806" selection-end-column="10" />
               <folding />
             </state>
@@ -166,12 +137,12 @@
         <option value="$PROJECT_DIR$/views/about-bencallis.html" />
         <option value="$PROJECT_DIR$/extra.html" />
         <option value="$PROJECT_DIR$/js/pace.js" />
-        <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/myWork/asset-office-interiors.html" />
         <option value="$PROJECT_DIR$/myWork/paul-mitchell-edu.html" />
         <option value="$PROJECT_DIR$/myWork/child-rescue.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/app.js" />
       </list>
     </option>
   </component>
@@ -183,8 +154,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1444" />
-    <option name="y" value="23" />
+    <option name="x" value="1722" />
+    <option name="y" value="43" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -212,6 +183,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -254,56 +226,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="uploaded" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PortfolioBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PortfolioBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uploaded" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project_thumbs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PortfolioBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PortfolioBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uploaded" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PortfolioBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PortfolioBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="myWork" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -332,31 +254,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PortfolioBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PortfolioBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JSPractice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -397,6 +304,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
   </component>
@@ -417,28 +330,34 @@
       <option name="project" value="LOCAL" />
       <updated>1436474776354</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added a few more things. Still needs a lot of work">
+      <created>1436566055699</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1436566055699</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1444" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="false" />
+    <frame x="1722" y="43" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.4974802" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.4974802" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17899929" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5025198" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17829457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5025198" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -457,13 +376,118 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="So SICKKKKK Loving the landing page" />
-    <option name="LAST_COMMIT_MESSAGE" value="So SICKKKKK Loving the landing page" />
+    <MESSAGE value="Added a few more things. Still needs a lot of work" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a few more things. Still needs a lot of work" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1080" column="0" selection-start-line="1080" selection-start-column="0" selection-end-line="1080" selection-end-column="56" />
+          <folding>
+            <element signature="n#style#0;n#article#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#2;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#3;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#4;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#5;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#6;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#7;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWork/child-rescue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="207" column="22" selection-start-line="207" selection-start-column="22" selection-end-line="207" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#a#0;n#section#0;n#nav#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#section#0;n#nav#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWork/paul-mitchell-edu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="141" column="59" selection-start-line="0" selection-start-column="0" selection-end-line="280" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#a#0;n#section#0;n#nav#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#section#0;n#nav#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="806" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="806" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="629" column="5" selection-start-line="629" selection-start-column="5" selection-end-line="629" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#article#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#2;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#3;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#4;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#5;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#6;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#7;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWork/child-rescue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="207" column="22" selection-start-line="207" selection-start-column="22" selection-end-line="207" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#a#0;n#section#0;n#nav#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#section#0;n#nav#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myWork/paul-mitchell-edu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="141" column="59" selection-start-line="0" selection-start-column="0" selection-end-line="280" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#a#0;n#section#0;n#nav#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#section#0;n#nav#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="806" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="806" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/scrapbook.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -476,7 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -506,27 +529,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.94980186">
-          <caret line="928" column="25" selection-start-line="928" selection-start-column="25" selection-end-line="928" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08033827">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myWork/paul-mitchell-edu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.709091">
+        <state vertical-scroll-proportion="0.0">
           <caret line="141" column="59" selection-start-line="0" selection-start-column="0" selection-end-line="280" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#section#0;n#nav#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -537,7 +549,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/extra.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-28.357143">
+        <state vertical-scroll-proportion="0.0">
           <caret line="806" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="806" selection-end-column="10" />
           <folding />
         </state>
@@ -545,7 +557,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myWork/child-rescue.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-140.46428">
+        <state vertical-scroll-proportion="0.0">
           <caret line="207" column="22" selection-start-line="207" selection-start-column="22" selection-end-line="207" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#section#0;n#nav#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -554,10 +566,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5752" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="7980" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="9.325103">
-          <caret line="629" column="5" selection-start-line="629" selection-start-column="5" selection-end-line="629" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.8440493">
+          <caret line="282" column="63" selection-start-line="282" selection-start-column="63" selection-end-line="282" selection-end-column="63" />
           <folding>
             <element signature="n#style#0;n#article#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#article#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
